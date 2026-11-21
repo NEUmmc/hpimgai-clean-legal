@@ -1,0 +1,182 @@
+﻿HPClean Privacy Policy
+Effective Date: June 12, 2026
+1. Introduction
+Welcome to HPClean ("the App", "we", "our", or "us").
+This Privacy Policy explains how we collect, use, disclose, and safeguard information when you use HPClean. By downloading, accessing, or using the App, you agree to the practices described in this Privacy Policy.
+Please note that users must be adults according to the laws and regulations applicable in their country, state, or region of residence.
+If you do not agree with this Privacy Policy, please discontinue use of the App.
+________________
+2. Information We Collect
+HPClean does not require user registration or account creation. We do not collect personally identifiable information ("PII") such as your name, phone number, physical address, or government-issued identification.
+To provide and improve our services, we may collect certain non-personally identifiable information as described below.
+Device Information
+When you access or use the App, we may receive certain device-related information, including:
+* Device model
+* Operating system version
+* Device language settings
+* App version
+* Device identifiers
+This information is collected in an aggregated and non-identifiable manner and is not associated with any specific individual.
+App Usage Information
+To provide storage cleanup functionality, the App may access information stored on your device, including:
+* Photos
+* Videos
+* Screenshots
+* Contact information (when applicable and authorized)
+* Calendar events (when applicable and authorized)
+We do not upload, store, or process the actual content of your media files on our servers. All analysis is performed locally on your device unless otherwise specified.
+Media Metadata
+The App may access metadata associated with photos and videos, including:
+* Creation date
+* File size
+* Resolution
+* Video duration
+* Media type
+* Local resource identifiers
+This information is used solely for:
+* Sorting and organizing media
+* Detecting duplicate or similar files
+* Generating storage statistics
+* Providing cleanup recommendations
+Photo Location Metadata
+If photos contain embedded location metadata, the App may read this information and use Apple's geocoding services to display location names such as cities, regions, or countries.
+The App does not request or track your real-time location.
+Cleanup Statistics
+The App stores certain statistics locally on your device, including:
+* Number of deleted photos
+* Number of deleted videos
+* Estimated storage space freed
+These statistics are used exclusively for displaying information within the App and managing feature limitations.
+Notification Permission Status
+If you grant notification permissions, the App may send local reminders to help you manage and clean your device storage.
+These notifications are generated locally and are not delivered through our servers.
+Subscription Information
+The App uses Apple StoreKit to:
+* Display subscription products
+* Process purchases
+* Restore previous purchases
+* Verify subscription status
+All payment transactions are handled directly by Apple.
+We do not collect, process, or store:
+* Credit card numbers
+* Bank account information
+* Payment credentials
+Email Address
+If required for payment confirmation or customer support, we may collect your email address to:
+* Send purchase confirmations
+* Respond to support inquiries
+* Verify Premium access
+Advertising Information
+The current version of the App does not display advertisements and does not include third-party advertising SDKs.
+________________
+3. How We Use Information
+We use collected information for the following purposes:
+Core App Functionality
+* Provide storage cleanup services
+* Detect duplicate and similar photos
+* Identify large media files
+* Organize screenshots and videos
+* Display cleanup recommendations
+Service Operation and Improvement
+* Maintain App functionality
+* Improve performance and reliability
+* Analyze usage trends
+* Develop new features
+Security and Stability
+* Detect technical issues
+* Prevent abuse and misuse
+* Ensure App security and integrity
+Analytics and Marketing Optimization
+* Measure App performance
+* Improve attribution and analytics
+* Optimize marketing effectiveness
+________________
+4. Local Processing of Media
+Most media analysis is performed entirely on your device.
+This includes:
+* Similar photo detection
+* Duplicate photo grouping
+* Screenshot classification
+* Video categorization
+* Storage estimation
+* Cleanup recommendations
+The App utilizes local algorithms and OpenCV technologies to perform these functions without uploading your media content to external servers.
+________________
+5. Third-Party Services
+Certain features rely on Apple or third-party services:
+iCloud Photos
+When iCloud Photos is enabled, Apple's Photos framework may retrieve media from iCloud for display or playback.
+Apple StoreKit
+Apple manages:
+* Purchases
+* Subscriptions
+* Billing
+* Refunds
+* Purchase restoration
+Apple Geocoding Services
+Location metadata embedded within photos may be converted into human-readable place names using Apple's geocoding services.
+iOS Notification Services
+Local notifications are managed and delivered by the iOS operating system.
+________________
+6. Data Storage and Retention
+Media analysis results are primarily stored locally on your device.
+Subscription records and payment history are maintained by Apple through StoreKit.
+Please note that deleting the App does not automatically cancel an active subscription.
+Subscriptions must be managed through your Apple ID account settings.
+________________
+7. How We Protect Your Information
+We take reasonable technical and organizational measures to protect your information from:
+* Unauthorized access
+* Disclosure
+* Loss
+* Alteration
+* Destruction
+However, no method of electronic transmission or storage is completely secure. Therefore, we cannot guarantee absolute security.
+________________
+8. How We Share Information
+We do not sell, rent, or trade your information to third parties.
+We may share limited information with trusted service providers that assist us in:
+* Cloud infrastructure
+* Analytics
+* Subscription management
+* Technical support
+These providers are contractually obligated to protect information and may only use it for authorized purposes.
+We may also disclose information when required by law or legal process.
+________________
+9. Children's Privacy
+HPClean is not intended for children.
+We do not knowingly collect information from individuals who are not legally permitted to use the App under applicable laws.
+If you believe a child has provided information to us, please contact us immediately so that appropriate action can be taken.
+________________
+10. Your Choices
+Your use of the App is voluntary.
+You may:
+* Revoke photo library permissions through Settings
+* Use Limited Photo Access to restrict accessible media
+* Disable notifications in Settings
+* Manage or cancel subscriptions through:
+Settings > Apple ID > Subscriptions
+* Delete the App to remove locally stored App data
+________________
+11. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect:
+   * Legal requirements
+   * Platform requirements
+   * Product updates
+   * Business needs
+When updates occur, the revised effective date will be posted within the App or on the applicable website.
+Continued use of the App after changes become effective constitutes acceptance of the revised Privacy Policy.
+________________
+12. Language
+The original language of this Privacy Policy is English.
+Any translated version is provided solely for convenience. In the event of any conflict or inconsistency between the English version and a translated version, the English version shall prevail.
+________________
+13. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+Email: HotPot2025@outlook.com
+To help us respond efficiently, please include:
+   * Your name
+   * Your email address
+   * Your inquiry details
+   * Company name (if applicable)
+We will make reasonable efforts to respond to your request in a timely manner.

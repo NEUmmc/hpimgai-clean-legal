@@ -1,0 +1,5 @@
+# Preserve approved source bytes, including the UTF-8 BOM, CRLF, and mixed newlines.
+privacy-policy-corrected.txt -text
+terms-of-use-corrected.txt -text
+legal-documents-changes.txt -text
+"FUTURE-ADDITIONS-REMINDER-广告服务未来添加提醒.txt" -text
