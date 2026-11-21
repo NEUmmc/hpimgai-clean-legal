@@ -1,0 +1,52 @@
+Legal document local corrections
+
+Google Docs: UNCHANGED. These edits are local text copies only. The online Google Docs were not opened, edited, exported again, or otherwise modified.
+Repository / GitHub Pages / app source: UNCHANGED. No repo was created, and no code or online content was deployed or mutated.
+Original local exports preserved (not overwritten):
+  /workspace/legal-documents/privacy-policy.txt
+  /workspace/legal-documents/terms-of-use.txt
+Reminder file left unchanged:
+  /workspace/legal-documents/FUTURE-ADDITIONS-REMINDER-广告服务未来添加提醒.txt
+Corrected local outputs:
+  /workspace/legal-documents/privacy-policy-corrected.txt
+  /workspace/legal-documents/terms-of-use-corrected.txt
+
+Encoding: corrected files retain the originals' UTF-8 BOM and CRLF newlines.
+
+========================================================================
+CHANGE 1 of 2
+File: /workspace/legal-documents/privacy-policy-corrected.txt
+Source original: /workspace/legal-documents/privacy-policy.txt
+Scope: the coherent Advertising Information passage only (under section 2, Information We Collect). All other headings, date, identity/contact, and clauses are unchanged.
+
+----- BEFORE (exact) -----
+Advertising Information
+Advertisements may be displayed through third-party advertising platforms, including:
+* Google AdMob
+* Firebase
+* AppLovin MAX
+* Other advertising partners
+Please refer to the respective privacy policies of these providers for information regarding their data processing practices.
+----- AFTER (exact) -----
+Advertising Information
+The current version of the App does not display advertisements and does not include third-party advertising SDKs.
+----- END -----
+
+========================================================================
+CHANGE 2 of 2
+File: /workspace/legal-documents/terms-of-use-corrected.txt
+Source original: /workspace/legal-documents/terms-of-use.txt
+Scope: only the 'The App currently offers' sentence plus the Weekly/Monthly/Yearly list. The following pricing/trial/offer paragraph and the rest of the document, including the Ad-free Pro benefit, are unchanged.
+
+----- BEFORE (exact) -----
+The App currently offers the following auto-renewable subscriptions:
+* Weekly Subscription
+* Monthly Subscription
+* Yearly Subscription
+----- AFTER (exact) -----
+The App currently offers the following auto-renewable subscriptions:
+* Weekly Subscription
+* Monthly Subscription
+A Yearly Subscription is not available in the current version of the App and may be added later.
+----- END -----
+

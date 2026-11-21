@@ -1,0 +1,174 @@
+/* Local layout only. No external fonts, libraries, or trackers. */
+:root {
+  color-scheme: light;
+  --bg: #f4f3f0;
+  --text: #1b1b1b;
+  --muted: #3f3f3f;
+  --line: #ddd9d2;
+  --link: #0b3a66;
+  --measure: 38rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+.wrap {
+  width: 100%;
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 1rem 1.125rem 3rem;
+}
+
+header {
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.35rem 1.25rem;
+}
+
+.brand {
+  color: var(--text);
+  font-weight: 650;
+  font-size: 1.05rem;
+  text-decoration: none;
+  padding: 0.55rem 0;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem 1rem;
+}
+
+nav a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  padding: 0.55rem 0;
+  min-height: 44px;
+}
+
+nav a[aria-current="page"] {
+  font-weight: 650;
+  text-decoration-thickness: 2px;
+}
+
+a {
+  color: var(--link);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 3px;
+}
+
+main h1 {
+  margin: 0 0 0.75rem;
+  font-size: 1.7rem;
+  line-height: 1.25;
+  font-weight: 650;
+  overflow-wrap: anywhere;
+}
+
+article h1 + p {
+  color: var(--muted);
+}
+
+h2 {
+  margin: 2rem 0 0.75rem;
+  padding-top: 1.15rem;
+  border-top: 1px solid var(--line);
+  font-size: 1.25rem;
+  line-height: 1.35;
+  font-weight: 650;
+}
+
+h3 {
+  margin: 1.35rem 0 0.4rem;
+  font-size: 1.0625rem;
+  line-height: 1.4;
+  font-weight: 650;
+}
+
+p {
+  margin: 0.75rem 0;
+  overflow-wrap: break-word;
+}
+
+ul {
+  margin: 0.45rem 0 0.9rem;
+  padding-left: 1.25rem;
+}
+
+li {
+  margin: 0.3rem 0;
+  padding-left: 0.15rem;
+}
+
+li::marker {
+  color: #333;
+}
+
+.index-list {
+  padding-left: 1.2rem;
+}
+
+.index-list a {
+  display: inline-block;
+  padding: 0.35rem 0;
+  min-height: 44px;
+}
+
+@media (min-width: 720px) {
+  .wrap {
+    padding: 2rem 1.5rem 4rem;
+  }
+
+  main h1 {
+    font-size: 2rem;
+  }
+}
+
+@media print {
+  body {
+    background: #fff;
+  }
+
+  .wrap {
+    max-width: none;
+    padding: 0;
+  }
+
+  nav {
+    display: none;
+  }
+
+  a {
+    color: inherit;
+  }
+}
